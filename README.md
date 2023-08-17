@@ -1,5 +1,7 @@
 
-# NeSync ![128px_version-control_5815495](https://github.com/fxdeniz/NeSync/assets/104620840/02a32910-d2c3-433b-adad-9e0a6ea6c86c)
+<h1>
+   NeSync &nbsp; <img src="https://github.com/fxdeniz/NeSync/blob/main/Resources/app_icon.png" height=75 />
+</h1>
 
 
 _Pronounced as_ __Any Sync__.
